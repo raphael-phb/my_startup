@@ -15,12 +15,12 @@
 }
 
 .card img {
-	width: 150px;
+	width: 125px;
 	border-radius: 6px;
 }
 
 .card h3 {
 	flex-grow: 1;
 	padding-left: 20px;
-	font-size: 18px;
+	font-size: 20px;
 }
